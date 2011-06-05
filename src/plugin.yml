@@ -1,0 +1,8 @@
+name: Version
+main: uk.co.oliwali.Version.Version
+author: oliverw92
+version: 0.1
+commands:
+  plugs:
+    description: /plugins reloaded!
+    usage: /<command>
